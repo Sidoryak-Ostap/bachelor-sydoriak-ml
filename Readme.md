@@ -101,8 +101,3 @@ ML сервер буде доступний на `http://localhost:8000`
 Документація API: `http://localhost:8000/docs`
 
 ---
-
-## Вимоги
-
-- Node.js >= 18
-- Python >= 3.9
